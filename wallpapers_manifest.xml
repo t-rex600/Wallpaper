@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wallpapers>
+
+    <category name="TREXRom" >
+
+        <wallpaper
+            author="Jori66"
+            url="https://github.com/TeamTREX/Wallpaper/blob/master/wallpaper_01.jpg" />
+
+        <wallpaper
+            author="T-REX600"
+            url="https://github.com/TeamTREX/Wallpaper/blob/master/wallpaper_02.jpg" />
+
+        <wallpaper
+            author="T-REX600"
+            url="https://github.com/TeamTREX/Wallpaper/blob/master/wallpaper_03.jpg" />
+
+        <wallpaper
+            author="T-REX600"
+            url="https://github.com/TeamTREX/Wallpaper/blob/master/wallpaper_04.jpg" />
+   
+    </category>
+
+</wallpapers>
