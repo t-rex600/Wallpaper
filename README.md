@@ -1,4 +1,4 @@
 Wallpaper
 =========
 
-Wallpaper for packages_apps_Trex_Wallpapers
+Wallpaper for packages_apps_Carbon_Wallpapers
