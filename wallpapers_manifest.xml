@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
 
-    <category name="TREXRom" >
+    <category name="LiquidDark" >
 
         <wallpaper
-            author="Liquid"
+            author="T-REX600"
             thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_01.jpg"
             url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_01.jpg" />
 
@@ -14,7 +14,7 @@
             url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_05.jpg" />
 
         <wallpaper
-            author="Liquid"
+            author="T-REX600"
             thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_03.jpg"
             url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_03.jpg" />
 
@@ -58,203 +58,9 @@
             thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_12.jpg"
             url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_12.jpg" />    
 
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_13.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_13.png" />
-
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_14.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_14.png" />
-
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_15.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_15.png" />
-
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_16.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_16.png" />
-
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_17.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_17.png" />         
-
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_18.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_18.png" />    
-
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_19.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_19.png" />
-
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_20.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_20.png" />
-
-        <wallpaper
-            author="Patrick P"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_21.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_21.jpg" />
-
-        <wallpaper
-            author="Patrick P"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_22.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_22.jpg" />
-
-        <wallpaper
-            author="Patrick P"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_23.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_23.jpg" />        
-
-        <wallpaper
-            author="Patrick P"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_24.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_24.jpg" />
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_25.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_25.jpg" />
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_26.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_26.jpg" />
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_27.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_27.jpg" />
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_28.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_28.jpg" />        
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_29.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_29.jpg" />
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_30.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_30.png" />         
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_31.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_31.png" />    
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_32.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_32.png" />       
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_33.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_33.png" />
-
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_34.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_34.png" />         
-
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_35.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_35.png" />    
-
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_36.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_36.png" />       
-
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_37.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_37.png" />        
-        
+       
         <wallpaper
             author="T-REX600"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_38.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_38.jpg" />
-
-        <wallpaper
-            author="Bangsti"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_39.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_39.png" />
-
-        <wallpaper
-            author="Bangsti"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_40.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_40.png" />
-
-        <wallpaper
-            author="Bangsti"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_41.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_41.png" />
-
-        <wallpaper
-            author="T-REX600"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_42.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_42.jpg" />
-
-        <wallpaper
-            author="fraz14"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_43.png"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_43.png" />
-        
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_44.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_44.jpg" />
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_45.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_45.jpg" />
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_46.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_46.jpg" />
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_47.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_47.jpg" />
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_48.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_48.jpg" />
-
-        <wallpaper
-            author="klimo"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_49.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_49.jpg" />
-
-        <wallpaper
-            author="T-REX600"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_50.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_50.jpg" />
-
-        <wallpaper
-            author="T-REX600"
-            thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_51.jpg"
-            url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_51.jpg" />
-
-        <wallpaper
-            author="TREX"
             thumbUrl="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_06.jpg"
             url="https://raw.githubusercontent.com/TREX-ROM/Wallpaper/master/wallpaper_06.jpg" />
     </category>
